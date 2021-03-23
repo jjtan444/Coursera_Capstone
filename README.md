@@ -6,5 +6,4 @@ This repository contains my submissions for the IBM Applied Data Science Capston
 The Professsional Certificate can be viewed [here](https://www.coursera.org/account/accomplishments/specialization/certificate/E59RV36ARYZ8).
 
 
-test
 
